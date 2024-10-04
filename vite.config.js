@@ -11,7 +11,8 @@ export default defineConfig({
   },
   build: {
     chunkSizeWarningLimit: 2000,
-    base: '/src/',
+    // Vous pouvez ajouter une base ici si nécessaire :
+    // base: '/your-repo-name/'
   },
   optimizeDeps: {
     include: ['cesium']
