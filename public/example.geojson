@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Château de Murviel-lès-Béziers",
-        "description": "Château situé à Murviel-lès-Béziers."
+        "description": "Château situé à Murviel-lès-Béziers"
       },
       "geometry": {
         "type": "Point",
